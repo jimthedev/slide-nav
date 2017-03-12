@@ -76,9 +76,11 @@ h1 {
 }
 
 .nav a {
+	display: inline-block;
 	padding: 7px 20px;
 	border-radius: 7px;
 	margin-right: 10px;
+	margin-top: 5px;
 	background: rgba(255, 255, 255, 0.5);
 	-webkit-transition: all 0.2s ease-out;
 	-moz-transition: all 0.2s ease-out;
